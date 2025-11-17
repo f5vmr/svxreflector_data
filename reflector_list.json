@@ -1,0 +1,32 @@
+{
+   "reflectors": [
+     {
+       "name": "portal.svxlink.uk",
+       "type": 3,
+       "port": 5300,
+       "pwd": "Null",
+       "countries": ["GB", "IE"]
+     },
+     {
+        "name": "svxlink.yorkshire.networ",
+        "type": 3,
+        "port": 5310,
+        "pwd": "Null",
+        "countries": ["GB"]
+     },
+     {
+         "name": "north.america.svxlink.net",
+         "type": 3,
+         "port": 5300,
+         "pwd": "Null",
+         "countries": ["US", "CA", "MX"]
+     }
+     {
+       "name": "ri49.f4ipa.fr",
+       "type": 1,
+       "port": 5300,
+       "pwd": "517388",
+       "countries": ["FR", "CA", "BE", "CH"]
+     }
+   ]
+ }
