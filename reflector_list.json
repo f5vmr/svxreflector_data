@@ -1,32 +1,53 @@
 {
    "reflectors": [
      {
-       "name": "portal.svxlink.uk",
-       "type": 3,
-       "port": 5300,
-       "pwd": "Null",
-       "countries": ["GB", "IE"]
+    "Language": "en_GB",
+    "name": "portal.svxlink.uk",
+    "type": 3,
+    "port": 5300,
+    "pwd": "Null",
+    "countries": ["GB", "IE"]
      },
      {
-        "name": "svxlink.yorkshire.network",
-        "type": 3,
-        "port": 5310,
-        "pwd": "Null",
-        "countries": ["GB"]
+    "Language": "en_GB",
+    "name": "svxlink.yorkshire.network",
+    "type": 3,
+    "port": 5310,
+    "pwd": "Null",
+    "countries": ["GB"]
      },
      {
-         "name": "north.america.svxlink.net",
-         "type": 3,
-         "port": 5300,
-         "pwd": "Null",
-         "countries": ["US", "CA", "MX"]
-     }
+      "Language": "en_US",
+      "name": "north.america.svxlink.net",
+      "type": 3,
+      "port": 5300,
+      "pwd": "Null",
+      "countries": ["US", "CA", "MX"]
+     },
      {
-       "name": "ri49.f4ipa.fr",
-       "type": 1,
-       "port": 5300,
-       "pwd": "517388",
-       "countries": ["FR", "CA", "BE", "CH"]
-     }
+      "Language": "fr_FR",
+      "name": "ri49.f4ipa.fr",
+      "type": 1,
+      "port": 5300,
+      "pwd": "517388",
+      "countries": ["FR", "CA", "BE", "CH"]
+     },
+     {
+      "Language": "fr_FR",
+      "name": "docs.rrf.ovh",
+      "type": 1,
+      "port": 5399,
+      "pwd": "Magnifique123456789!",
+      "countries": ["FR", "CA", "BE", "CH"]
+     },
+      {
+      "Language": "de_DE",
+      "name": "svxlink.de",
+      "type": 3,
+      "port": 5300,
+      "pwd": "Null",
+      "countries": ["DE", "AT", "CH"]
+      }
+
    ]
  }
