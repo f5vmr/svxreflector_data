@@ -41,13 +41,21 @@
       "countries": ["FR", "CA", "BE", "CH"]
      },
       {
-      "Language": "de_DE",
-      "name": "svxlink.de",
-      "type": 3,
+      "Language": "it_IT",
+      "name": "svxlink.aotnet.it/",
+      "type": 2,
       "port": 5300,
       "pwd": "Null",
-      "countries": ["DE", "AT", "CH"]
-      }
+      "countries": ["IT","CH"]
+      },
+      {
+      "Language": "it_IT",
+      "name": "svxlink.ampr.ari.it/",
+      "type": 2,
+      "port": 5300,
+      "pwd": "Null",
+      "countries": ["IT","CH"]
+      } 
 
    ]
  }
